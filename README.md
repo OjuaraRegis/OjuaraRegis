@@ -1,13 +1,62 @@
-<h1 align="center">Olá 👋, sou Régis da Silveira Araujo</h1>
-<h3 align="center">Um desenvolvedor front-end  do Brasil</h3>
+# Olá, eu sou Régis da Silveira Araujo 👋
 
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
+<h3 align="center">🚀 Desenvolvedor Front-end do Brasil</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&width=435&lines=Desenvolvedor+Front-end;Entusiasta+de+Tecnologia;Sempre+aprendendo+novas+tecnologias" alt="Typing SVG">
 </p>
 
-<h3 align="left">Idiomas e ferramentas:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" altura="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" altura="40"/> </a> </p>
+## 📖 Sobre Mim
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ojuararegis&show_icons=true&locale=en&layout=compact" alt="ojuararegis" /></p>
+Sou um desenvolvedor brasileiro focado em criar experiências web incríveis através de:
+- 🎨 **Interfaces responsivas** e acessíveis
+- ⚡ **Aplicações performáticas** com as melhores práticas
+- 🔧 **Código limpo** e bem estruturado
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=ojuararegis&show_icons=true&locale=en" alt="ojuararegis" /></p>
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+### 💻 Frontend
+| Linguagens | Frameworks | Estilização |
+|------------|------------|-------------|
+| [![HTML5](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS3](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![JavaScript](https://skillicons.dev/icons?i=js)](https://javascript.com) [![TypeScript](https://skillicons.dev/icons?i=typescript)](https://www.typescriptlang.org/) | [![React Native](https://skillicons.dev/icons?i=react)](https://reactnative.dev/) | [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com) |
+
+### 🚀 Backend & Banco de Dados
+| Runtime | Framework | Database |
+|---------|-----------|----------|
+| [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org) | [![Express.js](https://skillicons.dev/icons?i=express)](https://expressjs.com/) | [![MySQL](https://skillicons.dev/icons?i=mysql)](https://mysql.com) |
+
+### 🔧 Ferramentas de Desenvolvimento
+| Controle de Versão | 
+|---------------------|
+| [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/) |
+
+---
+
+## 📈 Estatísticas do GitHub
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ojuararegis&show_icons=true&theme=gruvbox&hide_border=true" />
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojuararegis&layout=compact&theme=gruvbox&hide_border=true&langs_count=6" />
+</p>
+
+---
+
+## 🌐 Conecte-se comigo
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/regis-silveira-araujo/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/ojuararegis" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.instagram.com/regis.silveira.araujo/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
+
+---
+
+⭐ *Do [seu perfil do GitHub](https://github.com/ojuararegis)*
